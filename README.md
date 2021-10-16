@@ -9,3 +9,8 @@ A basic portfolio project to put to apply knowledge of JavaScript, Git, GitHub a
 - GitHub
 - NodeJS Command Prompt
 - Visual Studio Code
+## Possible future updates
+- Subclasses
+- Randomised stat spread
+- Different Source Books
+- Feats for optional custom lineage
